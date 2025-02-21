@@ -17,6 +17,7 @@ public class QuanLyPhanMem_BuffetParadis {
         // TODO code application logic here
         System.out.println("it a nigga");
         System.out.println("it a DucAnh");
+        System.out.println("B1tch");
     }
     
 }

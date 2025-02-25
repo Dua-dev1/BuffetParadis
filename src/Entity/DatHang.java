@@ -6,18 +6,17 @@ package Entity;
 
 /**
  *
- * @author ASUS
+ * @author Omen
  */
-
-public class KhachHang {
+public class DatHang {
     private String tenKhachHang;
-    private String SDT; 
+    private String SDT;
     private String ngayDatHang;
 
-    public KhachHang() {
+    public DatHang() {
     }
 
-    public KhachHang(String tenKhachHang, String SDT, String ngayDatHang) {
+    public DatHang(String tenKhachHang, String SDT, String ngayDatHang) {
         this.tenKhachHang = tenKhachHang;
         this.SDT = SDT;
         this.ngayDatHang = ngayDatHang;
@@ -47,4 +46,3 @@ public class KhachHang {
         this.ngayDatHang = ngayDatHang;
     }
 }
-
